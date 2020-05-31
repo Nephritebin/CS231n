@@ -1,1 +1,3 @@
-Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #1 of Spring 2019.
+Here are the codes and notes of the course CS231n of Standford University
+
+Details about the assignments can be found [on the course webpage](http://cs231n.github.io/).
